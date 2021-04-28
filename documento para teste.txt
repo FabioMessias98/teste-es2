@@ -12,6 +12,3 @@ Regras de negócio
 
 Stakeholders
 ============
-
-Glossário
-=========
